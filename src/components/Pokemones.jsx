@@ -64,4 +64,5 @@ const Pokemones = () => {
   )
 }
 
+
 export default Pokemones
